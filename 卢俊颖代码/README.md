@@ -58,12 +58,12 @@
 
 - 训练集表现
 
-| ![Train Cross Loss](C:\Users\13090\Desktop\人脸识别all\result\sex\Train Cross Loss.png) | ![Train Accuracy Rate](C:\Users\13090\Desktop\人脸识别all\result\sex\Train Accuracy Rate.png) |
+| ![Train Cross Loss](./result/sex/Train Cross Loss.png) | ![Train Accuracy Rate](./result/sex/Train Accuracy Rate.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 - 测试集表现
 
-<img src="C:\Users\13090\Desktop\人脸识别all\result\sex\Normalized Confusion matrix.png" alt="Normalized Confusion matrix" style="zoom: 67%;" />
+<img src="./result/sex/Normalized Confusion matrix.png" alt="Normalized Confusion matrix" style="zoom: 67%;" />
 
 ### 6.2 age
 
