@@ -58,7 +58,7 @@
 
 - 训练集表现
 
-| <img src="./result/sex/Normalized Confusion matrix.png"/> | ![Train Accuracy Rate](./result/sex/Train Accuracy Rate.png) |
+| <img src="./result/sex/Train Cross Loss.png"/> | <img src="./result/sex/Train Accuracy Rate.png"/> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 - 测试集表现
@@ -69,7 +69,7 @@
 
 - 训练集表现
 
-| ![Train Cross Loss](./result/age/Train Cross Loss.png) | ![Train Accuracy Rate](./result/age/Train Accuracy Rate.png) |
+| <img src="./result/age/Train Cross Loss.png"/> | <img src="./result/age/Train Accuracy Rate.png"/> |
 | ------------------------------------------------------ | ------------------------------------------------------------ |
 
 - 测试集表现
@@ -80,7 +80,7 @@
 
 - 训练集表现
 
-| ![Train Cross Loss](./result/race/Train Cross Loss.png) | ![Train Accuracy Rate](./result/race/Train Accuracy Rate.png) |
+| <img src="./result/race/Train Cross Loss.png"/> | <img src="./result/race/Train Accuracy Rate.png"/> |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
 
 - 测试集表现
@@ -91,7 +91,7 @@
 
 - 训练集表现
 
-| ![Train Cross Loss](./result/face/Train Cross Loss.png) | ![Train Accuracy Rate](./result/face/Train Accuracy Rate.png) |
+| <img src="./result/face/Train Cross Loss.png"/> | <img src="./result/face/Train Accuracy Rate.png"/> |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
 
 - 测试集表现
