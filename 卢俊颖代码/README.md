@@ -36,7 +36,7 @@
 
 - `convert_img.m`: 将 `rawdata` 文件夹中的无扩展名文件转换为 `*.jpg` 图像并保存在 `dataset/jpgdata`中
 - `image_outliers.py`: 检测 `dataset/jpgdata`中异常的图像（像素过于集中，图像过亮或过暗），并将异常结果保存在`dataset/outliers_too_bright.txt` 和 `dataset/outliers_too_dark.txt` 中
-- `process_label.py`: 生成合法的图像的路径和分类标签
+- `process_label.py`: 生成合法的图像的路径和分类标签并保存到 `dataset/label.txt` 中
   - `sex (female: 0, male: 1)`
   - `age (child: 0, teen: 1, adult: 2, senior: 3)`
   - `race (white: 0, asian: 1, black: 2)`
