@@ -58,7 +58,7 @@
 
 - 训练集表现
 
-| ![Train Cross Loss](./result/sex/Train Cross Loss.png) | ![Train Accuracy Rate](./result/sex/Train Accuracy Rate.png) |
+| <img src="./result/sex/Normalized Confusion matrix.png"/> | ![Train Accuracy Rate](./result/sex/Train Accuracy Rate.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 - 测试集表现
